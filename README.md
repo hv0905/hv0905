@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/hv0905/hv0905/raw/master/cover.jpg"/>
+![](cover.jpg)
 
 ### Hi, I'm EdgeNeko.
 ### welcome to my profile.
