@@ -1,4 +1,4 @@
-<img align="center" src="cover.png"/>
+<img align="center" src="cover.jpg"/>
 
 ### Hi, I'm EdgeNeko.
 ### welcome to my profile.
