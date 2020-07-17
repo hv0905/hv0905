@@ -9,7 +9,7 @@
 
 📔 A high school student in Guangzhou, China.
 
-🚀 Knowing a little about both frontend and backend, focus on C#, Typescript 
+🚀 Knowing a little about both frontend and backend, focus on C#, Typescript, knowing a little about Java and C
 
 ⌨ A member in [AiursoftWeb](//www.aiursoft.com), an organization focusing on open platform and open communication.
 
