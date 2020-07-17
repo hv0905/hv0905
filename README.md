@@ -1,3 +1,4 @@
+<img align="center" src="cover.png"/>
 
 ### Hi, I'm EdgeNeko.
 ### welcome to my profile.
@@ -19,6 +20,10 @@
   <strong><a href="//github.com/hv0905"> ☁ Github</a></strong> |
   <strong><a href="//space.bilibili.com/26158913">📺 Bilibili</a></strong> |
   <strong><a href="https://web.kahla.app/user/bcbd915e-6d11-4cc0-8093-d64222e46724">🗨 Kahla</a></strong>
+</p>
+
+<p align="right">
+  <i>Cover PixArt: pixiv 73492057</i>
 </p>
 
 <!--
