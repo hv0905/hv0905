@@ -8,7 +8,7 @@
 
 ---
 
-📔 A high school student in Guangzhou, China.
+📔 A new-coming college student in SCUT.
 
 🚀 Knowing a little about both frontend and backend. Focusing on C#, Typescript, knowing a little about Java and C
 
@@ -19,6 +19,7 @@
   <strong><a href="//edgeneko.aiursoft.com">💻 Official Website</a></strong> |
   <strong><a href="//github.com/hv0905"> ☁ GitHub</a></strong> |
   <strong><a href="//space.bilibili.com/26158913">📺 Bilibili</a></strong> |
+  <strong><a href="//t.me/edgeneko">✈️ Telegram</a></strong> |
   <strong><a href="https://web.kahla.app/user/bcbd915e-6d11-4cc0-8093-d64222e46724">🗨 Kahla</a></strong>
 </p>
 
