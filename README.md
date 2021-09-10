@@ -8,7 +8,7 @@
 
 ---
 
-📔 A new-coming college student in SCUT.
+📔 A new-coming college student in SCUT Software Engineering Academy.
 
 🚀 Knowing a little about both frontend and backend. Focusing on C#, Typescript, knowing a little about Java and C
 
