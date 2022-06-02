@@ -10,7 +10,7 @@
 
 📔 A new-coming college student in SCUT Software Engineering Academy.
 
-🚀 Knowing a little about both frontend and backend. Focusing on C#, Typescript, knowing a little about Java and C
+🚀 Knowing a little about both frontend and backend. Focusing on C#, Typescript, C++, knowing a little about Java
 
 ⌨ A member in [AiursoftWeb](//www.aiursoft.com), an organization focusing on open platform and open communication.
 
