@@ -1,5 +1,9 @@
 <img align="center" src="https://github.com/hv0905/hv0905/raw/master/cover.jpg"/>
 
+```ts
+import {EdgeNeko} from 'Earth/Nekos';
+```
+
 ### Hi, I'm EdgeNeko.
 ### welcome to my profile.
 <p align="center">
