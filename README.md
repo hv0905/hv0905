@@ -24,7 +24,8 @@ import {EdgeNeko} from 'Earth/Nekos';
   <strong><a href="//github.com/hv0905"> ☁ GitHub</a></strong> |
   <strong><a href="//space.bilibili.com/26158913">📺 Bilibili</a></strong> |
   <strong><a href="https://discord.gg/8dWcRHqdAU">✈️ Discord</a></strong> |
-  <strong><a href="https://web.kahla.app/user/bcbd915e-6d11-4cc0-8093-d64222e46724">🗨 Kahla</a></strong>
+  <strong><a href="https://web.kahla.app/user/bcbd915e-6d11-4cc0-8093-d64222e46724">🗨 Kahla</a></strong>|
+  <strong><a href="https://edgeneko.aiursoft.com/link/">🐸More</a></strong>
 </p>
 
 <p align="right">
