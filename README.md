@@ -14,9 +14,42 @@ import {EdgeNeko} from 'Earth/Nekos';
 
 📔 A new-coming college student in SCUT Software Engineering Academy.
 
-🚀 Knowing a little about both frontend and backend. Focusing on C#, Typescript, C++, knowing a little about Java
-
 ⌨ A member in [AiursoftWeb](//www.aiursoft.com), an organization focusing on open platform and open communication.
+<details>
+  <summary><b>✨Languages and platforms I used:<b></summary>
+  <br>
+
+  ### Working with:
+
+  <p align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="DotNet" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </p>
+
+  ### Learning:
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="AfterEffects" width="40" height="40"/>
+    
+  </p>
+
+  ### Interested in:
+
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg" alt="UnrealEngine" width="40" height="40"/>
+  </p>
+
+</details>
+
+<br>
 
 <p align="center">
   <strong><a href="mailto:edgeneko@aiursoft.com">✉ Email Me</a></strong> |
@@ -24,7 +57,7 @@ import {EdgeNeko} from 'Earth/Nekos';
   <strong><a href="//github.com/hv0905"> ☁ GitHub</a></strong> |
   <strong><a href="//space.bilibili.com/26158913">📺 Bilibili</a></strong> |
   <strong><a href="https://discord.gg/8dWcRHqdAU">✈️ Discord</a></strong> |
-  <strong><a href="https://web.kahla.app/user/bcbd915e-6d11-4cc0-8093-d64222e46724">🗨 Kahla</a></strong>|
+  <strong><a href="https://web.kahla.app/user/bcbd915e-6d11-4cc0-8093-d64222e46724">🗨 Kahla</a></strong> |
   <strong><a href="https://edgeneko.aiursoft.com/link/">🐸More</a></strong>
 </p>
 
