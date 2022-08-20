@@ -16,7 +16,7 @@ import {EdgeNeko} from 'Earth/Nekos';
 
 ⌨ A member in [AiursoftWeb](//www.aiursoft.com), an organization focusing on open platform and open communication.
 <details>
-  <summary><b>✨Languages and platforms I used:<b></summary>
+  <summary><b>✨Languages and platforms I used:</b></summary>
   <br>
 
   ### Working with:
