@@ -12,7 +12,7 @@ import {EdgeNeko} from 'Earth/Nekos';
 
 ---
 
-📔 A new-coming college student in SCUT Software Engineering Academy.
+📔 A grade-2 college student in SCUT Software Engineering Academy.
 
 ⌨ A member in [AiursoftWeb](//www.aiursoft.com), an organization focusing on open platform and open communication.
 <details>
