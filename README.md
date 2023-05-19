@@ -1,11 +1,10 @@
+<p align="center"> 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓹𝓻𝓸𝓯𝓲𝓵𝓮 |´・ω・)ノ </p>
 <img align="center" src="https://github.com/hv0905/hv0905/raw/master/cover.jpg"/>
 
 ```ts
 import {EdgeNeko} from 'Earth/Nekos';
 ```
 
-### Hi, I'm EdgeNeko.
-### welcome to my profile.
 <p align="center">
 <a href="//github.com/hv0905"><img src="https://github-readme-stats.vercel.app/api?username=hv0905&hide_border=true&show_icons=true&theme=buefy&count_private=true"/></a>
 </p>  
