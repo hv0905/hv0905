@@ -11,13 +11,16 @@ import {EdgeNeko} from 'Earth/Nekos';
 
 ---
 
-📔 A grade-2 college student in SCUT Software Engineering Academy.
+📔 A grade-3 college student in SCUT Software Engineering Academy.
 
 ⌨ A member in [AiursoftWeb](//www.aiursoft.com), an organization focusing on open platform and open communication.
 <details>
   <summary><b>✨Languages and platforms I used:</b></summary>
-  <br>
-
+  <br><p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hv0905&layout=compact"/><br>
+  <del>I don't know why Java is at the top of my stats though...</del>
+  </p>
+  
   ### Working with:
 
   <p align="center">
@@ -28,13 +31,14 @@ import {EdgeNeko} from 'Earth/Nekos';
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </p>
 
   ### Learning:
 
   <p align="center">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aftereffects/aftereffects-original.svg" alt="AfterEffects" width="40" height="40"/>
     
   </p>
